@@ -1,2 +1,2 @@
 # wbrms-inventory-service
-Service to help contorl your stocks
+Service to help control your stocks
